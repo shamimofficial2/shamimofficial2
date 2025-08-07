@@ -1,6 +1,22 @@
+# 💫 Hi 👋, I'm Shamim Ahmed Nahid
+**I AM THE FUTURE DEVELOPER**
+
+Email Me 👉 ✉️ **shamimofficial771@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Self learning
+- 🌱 **I’m currently learning:** Python
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** shamimofficial771@gmail.com
+- ⚡ **Fun fact:** 404 sleep not found
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shamim.Ahmed.Nahid.2009) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ami.official_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30254933/shamim-ahmed-nahid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ami_official2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamimofficial771@gmail.com) 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
