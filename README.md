@@ -3,11 +3,12 @@
 
 Email Me 👉 ✉️ **shamimofficial771@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Self learning
+- 🔭 **I’m currently working on:** Advancing my skills through self-learning and practical projects
 - 🌱 **I’m currently learning:** Python
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shamimofficial771@gmail.com
-- ⚡ **Fun fact:** 404 sleep not found
+- 🛡 Interests: Cybersecurity, Ethical Hacking, and Tech Innovation  
+- ⚡ Fun fact: I can write code quickly, but debugging is like an endless game of hide and seek! 😄
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shamim.Ahmed.Nahid.2009) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ami.official_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30254933/shamim-ahmed-nahid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ami_official2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamimofficial771@gmail.com) 
