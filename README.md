@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **shamimofficial771@gmail.com** For Collaboration/Project o
 - 🔭 **I’m currently working on:** Advancing my skills through self-learning and practical projects
 - 🌱 **I’m currently learning:** Python
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** shamimofficial771@gmail.com
 - 🛡 Interests: Cybersecurity, Ethical Hacking, and Tech Innovation  
 - ⚡ Fun fact: I can write code quickly, but debugging is like an endless game of hide and seek! 😄
 
